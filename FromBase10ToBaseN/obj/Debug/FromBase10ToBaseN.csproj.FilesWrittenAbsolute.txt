@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/FromBase10ToBaseN/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/FromBase10ToBaseN/bin/Debug/FromBase10ToBaseN.exe.mdb
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/FromBase10ToBaseN/bin/Debug/FromBase10ToBaseN.exe
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/FromBase10ToBaseN/obj/Debug/FromBase10ToBaseN.exe
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/FromBase10ToBaseN/obj/Debug/FromBase10ToBaseN.exe.mdb

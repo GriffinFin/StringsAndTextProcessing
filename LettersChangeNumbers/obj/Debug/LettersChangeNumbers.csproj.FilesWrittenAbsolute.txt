@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/LettersChangeNumbers/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/LettersChangeNumbers/bin/Debug/LettersChangeNumbers.exe.mdb
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/LettersChangeNumbers/bin/Debug/LettersChangeNumbers.exe
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/LettersChangeNumbers/obj/Debug/LettersChangeNumbers.exe
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/LettersChangeNumbers/obj/Debug/LettersChangeNumbers.exe.mdb

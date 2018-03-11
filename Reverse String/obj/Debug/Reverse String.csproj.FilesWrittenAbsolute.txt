@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/Reverse String/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/Reverse String/bin/Debug/Reverse_String.exe.mdb
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/Reverse String/bin/Debug/Reverse_String.exe
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/Reverse String/obj/Debug/Reverse_String.exe
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/Reverse String/obj/Debug/Reverse_String.exe.mdb

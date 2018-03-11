@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/SumBigNumbers/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/SumBigNumbers/bin/Debug/SumBigNumbers.exe.mdb
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/SumBigNumbers/bin/Debug/SumBigNumbers.exe
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/SumBigNumbers/obj/Debug/SumBigNumbers.exe
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/SumBigNumbers/obj/Debug/SumBigNumbers.exe.mdb

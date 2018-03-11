@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/CensorWords/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/CensorWords/bin/Debug/CensorWords.exe.mdb
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/CensorWords/bin/Debug/CensorWords.exe
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/CensorWords/obj/Debug/CensorWords.exe
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/CensorWords/obj/Debug/CensorWords.exe.mdb

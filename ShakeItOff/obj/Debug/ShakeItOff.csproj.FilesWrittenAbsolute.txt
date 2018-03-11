@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/ShakeItOff/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/ShakeItOff/bin/Debug/ShakeItOff.exe.mdb
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/ShakeItOff/bin/Debug/ShakeItOff.exe
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/ShakeItOff/obj/Debug/ShakeItOff.exe
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/ShakeItOff/obj/Debug/ShakeItOff.exe.mdb

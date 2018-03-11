@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/SubstringCount/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/SubstringCount/bin/Debug/SubstringCount.exe.mdb
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/SubstringCount/bin/Debug/SubstringCount.exe
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/SubstringCount/obj/Debug/SubstringCount.exe
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/SubstringCount/obj/Debug/SubstringCount.exe.mdb

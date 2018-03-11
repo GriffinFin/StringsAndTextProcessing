@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/ToUnicode/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/ToUnicode/bin/Debug/ToUnicode.exe.mdb
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/ToUnicode/bin/Debug/ToUnicode.exe
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/ToUnicode/obj/Debug/ToUnicode.exe
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/ToUnicode/obj/Debug/ToUnicode.exe.mdb

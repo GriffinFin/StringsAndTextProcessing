@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/Palindromes/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/Palindromes/bin/Debug/Palindromes.exe.mdb
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/Palindromes/bin/Debug/Palindromes.exe
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/Palindromes/obj/Debug/Palindromes.exe
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/Palindromes/obj/Debug/Palindromes.exe.mdb

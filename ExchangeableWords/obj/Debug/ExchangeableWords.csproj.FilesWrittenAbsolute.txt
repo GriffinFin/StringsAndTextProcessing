@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/ExchangeableWords/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/ExchangeableWords/bin/Debug/ExchangeableWords.exe.mdb
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/ExchangeableWords/bin/Debug/ExchangeableWords.exe
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/ExchangeableWords/obj/Debug/ExchangeableWords.exe
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/ExchangeableWords/obj/Debug/ExchangeableWords.exe.mdb

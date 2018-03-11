@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/CharMultiplier/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/CharMultiplier/bin/Debug/CharMultiplier.exe.mdb
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/CharMultiplier/bin/Debug/CharMultiplier.exe
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/CharMultiplier/obj/Debug/CharMultiplier.exe
+/home/shrexpecial/RiderProjects/StringsAndTextProcessing/CharMultiplier/obj/Debug/CharMultiplier.exe.mdb
